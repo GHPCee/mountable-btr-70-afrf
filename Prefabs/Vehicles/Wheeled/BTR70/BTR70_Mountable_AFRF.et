@@ -9,6 +9,24 @@ Vehicle : "{0700E1528AEAC774}Prefabs/Vehicles/Wheeled/BTR70/BTR70_Mountable_Base
     }
    }
   }
+  SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
+   m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
+    Name "BTR-70 APC Mountable AFRF"
+    m_sFaction "RHS_RF_MSV"
+    m_aAuthoredLabels +{
+    }
+    m_aAutoLabels {
+     1653989487 122
+    }
+    m_aOccupantFillCompartmentTypes {
+     0 2 1
+    }
+    m_aPassengerEntityBudgetCost {
+     SCR_EntityBudgetValue "{5A5EA70B9E84A0AA}" {
+     }
+    }
+   }
+  }
   SlotManagerComponent "{55BCE45E438E4CFF}" {
    Slots {
     RegisteringComponentSlotInfo Turret {
