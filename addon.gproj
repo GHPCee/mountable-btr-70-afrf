@@ -1,0 +1,22 @@
+GameProject {
+ ID "BTR70MountableAFRF"
+ GUID "617E2A0EBAA32CB0"
+ TITLE "Mountable BTR-70 AFRF"
+ Dependencies {
+  "617A2E90EA218AC4" "595F2BF2F44836FB" "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
